@@ -29,20 +29,7 @@ Here are some of the key projects included in this repository:
     - **SAFEty of the autonomous Vessel (SAFE-V):** Built and optimized safety analysis algorithms, significantly enhancing the vessel's operational reliability.
 - Technologies: Rust, Cargo (build tool), Async programming (async_std), Nalgebra crate, Markov chains, Fault tree analysis.
 
-3. **Dead Of Winter**
-
-- Description: 
-    - Collaborated with a team of 4 to design and develop a cooperative survival strategy board game.
-
-    - Programmed core game mechanics, including game procedure, character actions, resource card management, and crisis handling, along with server-client communication.
-
-    - Planned and designed a scalable, maintainable game architecture using OOP principles, enabling future expansions such as new card types, commands, and game events.
-
-    - Utilized JUnit to design unit and integration tests to ensure game accuracy and reliability.
-
-- Technologies: Java, Gradle, Git, IntelliJ, PMD, SpotBugs, UML Diagrams, Client-Server Architecture, Object-Oriented Programming (OOP), Unit Tests, Integration Tests, System Tests.
-
-4. **Edge Detection**
+3. **Edge Detection**
 
 - Description: 
 
@@ -54,7 +41,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: C, Convolution, Gaussian kernel, Image processing, PGM (Portable GrayMap), Command line interface (CLI), Mathematical operations, Dynamic memory allocation
 
-5. **Page Rank**
+4. **Page Rank**
 
 - Description:
     - Implemented the PageRank algorithm to compute node weights in directed graphs utilizing random surfer simulation and Markov chain-based computation.
@@ -64,7 +51,7 @@ Here are some of the key projects included in this repository:
     - Developed CLI options to handle command line parameters, computation modes, and output types.
 - Technologies: C, Markov chain, Random simulation, Graph theory, Probability vectors, Command line interface (CLI).
 
-6. **Route Planner**
+5. **Route Planner**
 
 - Description: 
 
@@ -76,7 +63,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Java, OpenStreetMap (OSM), Dijkstra's algorithm, A* algorithm, PriorityQueue, Graph theory.
 
-7. **Software Engineering Projects**
+6. **Software Engineering Projects**
 
 - Description: 
 
@@ -86,6 +73,18 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Scala, Eclipse IDE, Decorator pattern, Traits, Class composition, Mixins, Type checking, SAT solver (CafeSAT), sbt.
 
+7. **Winter der Toten**
+
+- Description: 
+    - Collaborated with a team of 4 to design and develop a cooperative survival strategy board game.
+
+    - Programmed core game mechanics, including game procedure, character actions, resource card management, and crisis handling, along with server-client communication.
+
+    - Planned and designed a scalable, maintainable game architecture using OOP principles, enabling future expansions such as new card types, commands, and game events.
+
+    - Utilized JUnit to design unit and integration tests to ensure game accuracy and reliability.
+
+- Technologies: Java, Gradle, Git, IntelliJ, PMD, SpotBugs, UML Diagrams, Client-Server Architecture, Object-Oriented Programming (OOP), Unit Tests, Integration Tests, System Tests.
 
 ## Contact
 

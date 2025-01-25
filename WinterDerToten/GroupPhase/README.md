@@ -1,4 +1,4 @@
-# Dead of Winter (Java) - Designer, Developer, Tester: Group Phase
+# Winter der Toten (Java) - Designer, Developer, Tester: Group Phase
 
 It is the winter of 2021. Thanks to the numerous vaccinations, COVID-19 finally seems to have been defeated and normal everyday life is slowly becoming conceivable again. The universities in the country are all switching back to face-to-face operation one after the other. Everyone is lulled in safety, the students in the lecture halls and the professors at their chairs, when things suddenly get much worse than expected...
 
@@ -19,15 +19,15 @@ You will use the first approximately one and a half weeks of the group phase for
 ## Draft
 In the design, your group must fulfill the following tasks:
 
-1. You must create a [UML class diagram of your system](/DeadOfWinter/GroupPhase/classdiagram.svg). The class diagram must contain all relevant classes of your implementation, as well as their important fields and methods. This should make it clear which data and which functionality you encapsulate in the respective class. The relationships between the classes among each other must be modeled correctly. In the class diagram, all classes and all non-trivial methods including their parameters must be listed in the class diagram. The trivial methods include, in particular, standard getter and setter methods, as well as `hashCode`, `equals` and `toString`.
+1. You must create a [UML class diagram of your system](/WinterDerToten/GroupPhase/classdiagram.svg). The class diagram must contain all relevant classes of your implementation, as well as their important fields and methods. This should make it clear which data and which functionality you encapsulate in the respective class. The relationships between the classes among each other must be modeled correctly. In the class diagram, all classes and all non-trivial methods including their parameters must be listed in the class diagram. The trivial methods include, in particular, standard getter and setter methods, as well as `hashCode`, `equals` and `toString`.
 
 2. You must demonstrate the interaction of your classes using UML sequence diagrams for the following 2 scenarios:
 
-- [Initializing the game](/DeadOfWinter/GroupPhase/initialisationSequence.svg).
+- [Initializing the game](/WinterDerToten/GroupPhase/initialisationSequence.svg).
 
-- [Searching a location with random encounter where 1 child also comes into the game](/DeadOfWinter/GroupPhase/searchSequence.svg). 
+- [Searching a location with random encounter where 1 child also comes into the game](/WinterDerToten/GroupPhase/searchSequence.svg). 
 
-- Just like customers in real life, the chair is also very changeable in its requirements for the game to be implemented. Therefore, after the design review there will be a change to the rules of the game. Your design must be flexible enough to be able to take into account the changes in the task without major effort. The specific changes will then be announced in a separate document [(original version](/DeadOfWinter/GroupPhase/Anforderungsaenderung.pdf), [English translation)](/DeadOfWinter/GroupPhase/Requirements_change.pdf), for which you can visualize the interaction of your classes using a [further UML sequence diagram](/DeadOfWinter/GroupPhase/searchPassiveAbility.svg).
+- Just like customers in real life, the chair is also very changeable in its requirements for the game to be implemented. Therefore, after the design review there will be a change to the rules of the game. Your design must be flexible enough to be able to take into account the changes in the task without major effort. The specific changes will then be announced in a separate document [(original version](/WinterDerToten/GroupPhase/Anforderungsaenderung.pdf), [English translation)](/WinterDerToten/GroupPhase/Requirements_change.pdf), for which you can visualize the interaction of your classes using a [further UML sequence diagram](/WinterDerToten/GroupPhase/searchPassiveAbility.svg).
 
 ## The Game
 SoPra of the Dead is a cooperative board game in which the players try to achieve a jointly set goal before time runs out or the colony's nerves are frayed.
@@ -50,4 +50,4 @@ Each round of the game consists of **two consecutive phases**:
 
 The game ends as soon as the common goal has been achieved, the rounds have expired or the colony's morale drops to 0.
 
-For detailed information about the gameplay and its technical details, refer to the full specification [(original version](/DeadOfWinter/GroupPhase//Spezifikation.pdf), [English translation)](/DeadOfWinter/GroupPhase/Specification.pdf).
+For detailed information about the gameplay and its technical details, refer to the full specification [(original version](/WinterDerToten/GroupPhase//Spezifikation.pdf), [English translation)](/WinterDerToten/GroupPhase/Specification.pdf).
