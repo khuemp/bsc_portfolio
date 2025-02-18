@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This repository serves as a showcase of my b
 
 Here are some of the key projects included in this repository:
 
-1. **2048**
+1. **2048 (Java)**
 
 - Description: 
     - Developed 2048 game focusing on core logic and user interaction.
@@ -19,7 +19,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Java, JUnit (for testing), Visual Studio Code (IDE).
 
-2. **Aquatic Vessel Navigator**
+2. **Aquatic Vessel Navigator (Rust)**
 
 - Description: 
     - **CLEAning NAVigation system (CLEANAV):** Simulated navigation for an ocean-cleaning vessel, leveraging Markov chains to model wind effects.
@@ -29,7 +29,7 @@ Here are some of the key projects included in this repository:
     - **SAFEty of the autonomous Vessel (SAFE-V):** Built and optimized safety analysis algorithms, significantly enhancing the vessel's operational reliability.
 - Technologies: Rust, Cargo (build tool), Async programming (async_std), Nalgebra crate, Markov chains, Fault tree analysis.
 
-3. **Edge Detection**
+3. **Edge Detection (C)**
 
 - Description: 
 
@@ -41,7 +41,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: C, Convolution, Gaussian kernel, Image processing, PGM (Portable GrayMap), Command line interface (CLI), Mathematical operations, Dynamic memory allocation
 
-4. **Page Rank**
+4. **Page Rank (C)**
 
 - Description:
     - Implemented the PageRank algorithm to compute node weights in directed graphs utilizing random surfer simulation and Markov chain-based computation.
@@ -51,7 +51,7 @@ Here are some of the key projects included in this repository:
     - Developed CLI options to handle command line parameters, computation modes, and output types.
 - Technologies: C, Markov chain, Random simulation, Graph theory, Probability vectors, Command line interface (CLI).
 
-5. **Robot Motion Planning**
+5. **Robot Motion Planning (PDDL)**
 - Description:
     - Developed a PDDL-based motion planning system for robots navigating a map with locked locations and fuel constraints. 
 
@@ -62,7 +62,7 @@ Here are some of the key projects included in this repository:
 - Technologies: PDDL, AI Planning, Motion Planning, Robot Navigation, Predicate Logic, State Representation.
 
 
-6. **Route Planner**
+6. **Route Planner (Java)**
 
 - Description: 
 
@@ -74,7 +74,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Java, OpenStreetMap (OSM), Dijkstra's algorithm, A* algorithm, PriorityQueue, Graph theory.
 
-7. **Software Engineering Projects**
+7. **Software Engineering Projects (Scala)**
 
 - Description: 
 
@@ -84,7 +84,18 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Scala, Eclipse IDE, Decorator pattern, Traits, Class composition, Mixins, Type checking, SAT solver (CafeSAT), sbt.
 
-8. **Winter der Toten**
+8. **Tic Tac Toe (MIPS)**
+
+- Description: 
+    - Developed a Tic-Tac-Toe game using MIPS Assembly, implementing core game logic and board rendering.
+
+    - Designed modular subprograms for drawing the board, handling player moves, and checking win conditions.
+
+    - Ensured input validation and memory manipulation for accurate gameplay representation.
+    
+- Technologies: MIPS Assembly, Low-Level Programming, Memory Management, ASCII Rendering.
+
+9. **Winter der Toten (Java)**
 
 - Description: 
     - Collaborated with a team of 4 to design and develop a cooperative survival strategy board game.
