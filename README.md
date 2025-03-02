@@ -35,6 +35,8 @@ Here are some of the key projects included in this repository:
     - Natural Language to SQL: Translated natural language queries into SQL for structured data retrieval. Designed and optimized complex queries with filtering, joins, and aggregations. Handled constraints like date formatting, house number extraction, and unit conversions.
     - Equi-Join: Analyzed historical data using SQL to assist in solving a forensic case. Applied equi-joins and filtering techniques to identify suspects based on purchases and addresses. Processed population registers and purchase records to extract meaningful insights.
 
+- Techniques: SQL query optimization, Joins and Subqueries (equi-join, inner join, outer join), Data constraints handling (date formatting, unit conversion, house number extraction), Pattern matching and filtering (address matching, witness statements, purchase analysis), and Data analysis and retrieval (population registers, historical records, purchase tracking).
+
 4. **Edge Detection (C)**
 
 - Description: 
