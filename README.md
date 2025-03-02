@@ -29,7 +29,13 @@ Here are some of the key projects included in this repository:
     - **SAFEty of the autonomous Vessel (SAFE-V):** Built and optimized safety analysis algorithms, significantly enhancing the vessel's operational reliability.
 - Technologies: Rust, Cargo (build tool), Async programming (async_std), Nalgebra crate, Markov chains, Fault tree analysis.
 
-3. **Edge Detection (C)**
+3. **Big Data Engineering (SQL)**
+- Description: 
+
+    - Natural Language to SQL: Translated natural language queries into SQL for structured data retrieval. Designed and optimized complex queries with filtering, joins, and aggregations. Handled constraints like date formatting, house number extraction, and unit conversions.
+    - Equi-Join: Analyzed historical data using SQL to assist in solving a forensic case. Applied equi-joins and filtering techniques to identify suspects based on purchases and addresses. Processed population registers and purchase records to extract meaningful insights.
+
+4. **Edge Detection (C)**
 
 - Description: 
 
@@ -41,7 +47,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: C, Convolution, Gaussian kernel, Image processing, PGM (Portable GrayMap), Command line interface (CLI), Mathematical operations, Dynamic memory allocation
 
-4. **Page Rank (C)**
+5. **Page Rank (C)**
 
 - Description:
     - Implemented the PageRank algorithm to compute node weights in directed graphs utilizing random surfer simulation and Markov chain-based computation.
@@ -51,7 +57,7 @@ Here are some of the key projects included in this repository:
     - Developed CLI options to handle command line parameters, computation modes, and output types.
 - Technologies: C, Markov chain, Random simulation, Graph theory, Probability vectors, Command line interface (CLI).
 
-5. **Robot Motion Planning (PDDL)**
+6. **Robot Motion Planning (PDDL)**
 - Description:
     - Developed a PDDL-based motion planning system for robots navigating a map with locked locations and fuel constraints. 
 
@@ -62,7 +68,7 @@ Here are some of the key projects included in this repository:
 - Technologies: PDDL, AI Planning, Motion Planning, Robot Navigation, Predicate Logic, State Representation.
 
 
-6. **Route Planner (Java)**
+7. **Route Planner (Java)**
 
 - Description: 
 
@@ -74,7 +80,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Java, OpenStreetMap (OSM), Dijkstra's algorithm, A* algorithm, PriorityQueue, Graph theory.
 
-7. **Software Engineering Projects (Scala)**
+8. **Software Engineering Projects (Scala)**
 
 - Description: 
 
@@ -84,7 +90,7 @@ Here are some of the key projects included in this repository:
 
 - Technologies: Scala, Eclipse IDE, Decorator pattern, Traits, Class composition, Mixins, Type checking, SAT solver (CafeSAT), sbt.
 
-8. **Tic Tac Toe (MIPS)**
+9. **Tic Tac Toe (MIPS)**
 
 - Description: 
     - Developed a Tic-Tac-Toe game using MIPS Assembly, implementing core game logic and board rendering.
@@ -95,9 +101,10 @@ Here are some of the key projects included in this repository:
     
 - Technologies: MIPS Assembly, Low-Level Programming, Memory Management, ASCII Rendering.
 
-9. **Winter der Toten (Java)**
+10. **Winter der Toten (Java)**
 
 - Description: 
+
     - Collaborated with a team of 4 to design and develop a cooperative survival strategy board game.
 
     - Programmed core game mechanics, including game procedure, character actions, resource card management, and crisis handling, along with server-client communication.
