@@ -1,6 +1,18 @@
 # Bachelor Computer Science Portfolio
 
-Welcome to my portfolio repository! This repository serves as a showcase of my best work from my Bachelor of Science in Computer Science, with a focus on Software Engineering. It highlights a range of projects that demonstrate my skills in software development, algorithms, and other areas of computer science.
+Welcome to my portfolio repository! This repository serves as a showcase of my best work from my Bachelor of Science in Computer Science, with a focus on Software Engineering. It highlights a range of projects that demonstrate my skills in software development, algorithms, data analysis, AI planning and other areas of computer science.
+
+## Bachelor's Thesis
+
+My Bachelor's thesis, *[Impact of Type Annotation and Usage Context on Copilot’s Code Completion: An Empirical Study](https://www.se.cs.uni-saarland.de/theses/MinhKhuePhamBA.pdf)*, explores the influence of type annotations and usage context on the code completion quality of GitHub Copilot, a state-of-the-art generative AI model.
+
+Key contributions:
+
+- Conducted an empirical study to assess how type annotations and usage context affect Copilot’s performance.
+    
+- Designed and executed experiments using 400 Python programming queries, followed by data analysis and statistical evaluation to measure accuracy and complexity.
+    
+- Identified key factors influencing the model’s effectiveness and proposed optimizations to enhance its performance.
 
 ## Projects
 
